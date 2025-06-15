@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="en" version="2005-1">
+<head>
+ <meta name="dtb:uid" content="urn:uuid:4ee0f389-9c44-4c5a-b1ce-aedfb1c755e7" />
+ <meta name="dtb:depth" content="1" />
+ <meta name="dtb:totalPageCount" content="0" />
+ <meta name="dtb:maxPageNumber" content="0" />
+</head>
+<docTitle><text>Seven H.P. Lovecraft Stories</text></docTitle>
+<navMap>
+ <navPoint id="navPoint-000001" playOrder="1">
+  <navLabel><text>Cover</text></navLabel>
+  <content src="Text/cover.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000002" playOrder="2">
+  <navLabel><text>Colophon</text></navLabel>
+  <content src="Text/colophon.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000003" playOrder="3">
+  <navLabel><text>Table Of Contents</text></navLabel>
+  <content src="Text/toc.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000004" playOrder="4">
+  <navLabel><text>Audio-eBooks: A Quick Introduction</text></navLabel>
+  <content src="Text/foreword.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000005" playOrder="5">
+  <navLabel><text>Seven H.P. Lovecraft Stories</text></navLabel>
+  <content src="Text/p001.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000006" playOrder="6">
+  <navLabel><text>The Beast In The Cave</text></navLabel>
+  <content src="Text/p002.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000007" playOrder="7">
+  <navLabel><text>The White Ship</text></navLabel>
+  <content src="Text/p003.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000008" playOrder="8">
+  <navLabel><text>Nyarlathotep</text></navLabel>
+  <content src="Text/p004.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000009" playOrder="9">
+  <navLabel><text>The Alchemist</text></navLabel>
+  <content src="Text/p005.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000010" playOrder="10">
+  <navLabel><text>The Shunned House</text></navLabel>
+  <content src="Text/p006.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000011" playOrder="11">
+  <navLabel><text>Dagon</text></navLabel>
+  <content src="Text/p007.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000012" playOrder="12">
+  <navLabel><text>The Tomb</text></navLabel>
+  <content src="Text/p008.xhtml"/>
+ </navPoint>
+ <navPoint id="navPoint-000013" playOrder="13">
+  <navLabel><text>Playlist</text></navLabel>
+  <content src="Text/playlist.xhtml"/>
+ </navPoint>
+</navMap>
+</ncx>
