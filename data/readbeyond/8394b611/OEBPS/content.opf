@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+    <dc:identifier id="pubID">urn:uuid:8394b611-8bcb-4708-a8c1-586ae93c6b87</dc:identifier>
+    <meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+    <dc:title id="title">A Mão e a Luva</dc:title>
+    
+    <dc:creator id="aut">Joaquim Maria Machado de Assis</dc:creator>
+    <meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#aut" property="file-as">de Assis, Joaquim Maria Machado</meta>
+
+    <dc:contributor id="nrt">LibriVox user "Leni"</dc:contributor>
+    <meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+    <meta refines="#nrt" property="file-as">LibriVox user "Leni"</meta>
+    
+    <dc:contributor id="bkp">ReadBeyond</dc:contributor>
+    <meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+    <meta refines="#bkp" property="file-as">ReadBeyond</meta>
+
+    <dc:language>pt</dc:language>
+    <dc:date>2015-12-04</dc:date>
+
+    <dc:publisher>ReadBeyond</dc:publisher>
+    <dc:rights>CC BY-NC-SA 3.0</dc:rights>
+    <dc:subject>Machado</dc:subject>
+    <dc:subject>Machado de Assis</dc:subject>
+    <dc:subject>Joaquim Maria Machado de Assis</dc:subject>
+    <dc:subject>Mão</dc:subject>
+    <dc:subject>Luva</dc:subject>
+    <dc:subject>Guiomar</dc:subject>
+    <dc:subject>Jorge</dc:subject>
+    <dc:subject>Estêvão</dc:subject>
+    <dc:subject>Luís Alves</dc:subject>
+    <dc:subject>literatura brasileira</dc:subject>
+    <dc:subject>casamento</dc:subject>
+    <dc:subject>sociedade</dc:subject>
+    <dc:subject>inocência</dc:subject>
+
+    <dc:description>A mão e a luva, romance publicado em 1874, é considerado por parte da crítica como um dos melhores de Machado de Assis, possivelmente o melhor romancista da literatura brasileira. A história de Guiomar, jovem ambiciosa, afilhada de uma baronesa, que deve escolher entre três homens qual deles oferece melhores vantagens em um casamento, é lida como uma análise da sociedade ambiciosa e da falsa inocência. (Summary by LibriVox user "Leni")</dc:description>
+    
+    <dc:type>Book</dc:type>
+    <meta property="dcterms:modified">2015-12-04T00:00:01Z</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta name="cover" content="cover.jpg" />
+    
+    <!--MEDIA OVERLAY METADATA-->
+    <meta property="media:duration" refines="#s001">00:00:14.32</meta>
+    <meta property="media:duration" refines="#s002">00:02:20.20</meta>
+    <meta property="media:duration" refines="#s003">00:16:02.80</meta>
+    <meta property="media:duration" refines="#s004">00:14:31.92</meta>
+    <meta property="media:duration" refines="#s005">00:14:27.76</meta>
+    <meta property="media:duration" refines="#s006">00:11:07.66</meta>
+    <meta property="media:duration" refines="#s007">00:11:10.07</meta>
+    <meta property="media:duration" refines="#s008">00:11:50.14</meta>
+    <meta property="media:duration" refines="#s009">00:11:06.15</meta>
+    <meta property="media:duration" refines="#s010">00:12:12.87</meta>
+    <meta property="media:duration" refines="#s011">00:15:20.37</meta>
+    <meta property="media:duration" refines="#s012">00:23:22.44</meta>
+    <meta property="media:duration" refines="#s013">00:12:06.41</meta>
+    <meta property="media:duration" refines="#s014">00:12:41.13</meta>
+    <meta property="media:duration" refines="#s015">00:11:58.50</meta>
+    <meta property="media:duration" refines="#s016">00:12:18.56</meta>
+    <meta property="media:duration" refines="#s017">00:12:42.49</meta>
+    <meta property="media:duration" refines="#s018">00:12:56.99</meta>
+    <meta property="media:duration" refines="#s019">00:12:47.82</meta>
+    <meta property="media:duration" refines="#s020">00:15:01.93</meta>
+    <meta property="media:duration" refines="#s021">00:11:25.53</meta>
+    <meta property="media:duration">04:17:46.06</meta>
+    <meta property="media:narrator">LibriVox user "Leni"</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+
+</metadata>
+<manifest>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    
+    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="colophon" href="Text/colophon.xhtml" media-type="application/xhtml+xml"/>
+    <item id="playlist" href="Text/playlist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c001" href="Styles/style.css" media-type="text/css"/>
+
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    <item id="logofb.png" href="Images/logofb.png" media-type="image/png" />
+    <item id="logotw.png" href="Images/logotw.png" media-type="image/png" />
+    <item id="logowww.png" href="Images/logowww.png" media-type="image/png" />
+
+    <item id="p001" href="Text/p001.xhtml" media-type="application/xhtml+xml" media-overlay="s001"/>
+    <item id="s001" href="Text/p001.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m001" href="Audio/01.mp3" media-type="audio/mpeg"/>
+
+    <item id="p002" href="Text/p002.xhtml" media-type="application/xhtml+xml" media-overlay="s002"/>
+    <item id="s002" href="Text/p002.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m002" href="Audio/02.mp3" media-type="audio/mpeg"/>
+
+    <item id="p003" href="Text/p003.xhtml" media-type="application/xhtml+xml" media-overlay="s003"/>
+    <item id="s003" href="Text/p003.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m003" href="Audio/03.mp3" media-type="audio/mpeg"/>
+
+    <item id="p004" href="Text/p004.xhtml" media-type="application/xhtml+xml" media-overlay="s004"/>
+    <item id="s004" href="Text/p004.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m004" href="Audio/04.mp3" media-type="audio/mpeg"/>
+
+    <item id="p005" href="Text/p005.xhtml" media-type="application/xhtml+xml" media-overlay="s005"/>
+    <item id="s005" href="Text/p005.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m005" href="Audio/05.mp3" media-type="audio/mpeg"/>
+
+    <item id="p006" href="Text/p006.xhtml" media-type="application/xhtml+xml" media-overlay="s006"/>
+    <item id="s006" href="Text/p006.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m006" href="Audio/06.mp3" media-type="audio/mpeg"/>
+
+    <item id="p007" href="Text/p007.xhtml" media-type="application/xhtml+xml" media-overlay="s007"/>
+    <item id="s007" href="Text/p007.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m007" href="Audio/07.mp3" media-type="audio/mpeg"/>
+
+    <item id="p008" href="Text/p008.xhtml" media-type="application/xhtml+xml" media-overlay="s008"/>
+    <item id="s008" href="Text/p008.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m008" href="Audio/08.mp3" media-type="audio/mpeg"/>
+
+    <item id="p009" href="Text/p009.xhtml" media-type="application/xhtml+xml" media-overlay="s009"/>
+    <item id="s009" href="Text/p009.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m009" href="Audio/09.mp3" media-type="audio/mpeg"/>
+
+    <item id="p010" href="Text/p010.xhtml" media-type="application/xhtml+xml" media-overlay="s010"/>
+    <item id="s010" href="Text/p010.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m010" href="Audio/10.mp3" media-type="audio/mpeg"/>
+
+    <item id="p011" href="Text/p011.xhtml" media-type="application/xhtml+xml" media-overlay="s011"/>
+    <item id="s011" href="Text/p011.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m011" href="Audio/11.mp3" media-type="audio/mpeg"/>
+
+    <item id="p012" href="Text/p012.xhtml" media-type="application/xhtml+xml" media-overlay="s012"/>
+    <item id="s012" href="Text/p012.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m012" href="Audio/12.mp3" media-type="audio/mpeg"/>
+
+    <item id="p013" href="Text/p013.xhtml" media-type="application/xhtml+xml" media-overlay="s013"/>
+    <item id="s013" href="Text/p013.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m013" href="Audio/13.mp3" media-type="audio/mpeg"/>
+
+    <item id="p014" href="Text/p014.xhtml" media-type="application/xhtml+xml" media-overlay="s014"/>
+    <item id="s014" href="Text/p014.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m014" href="Audio/14.mp3" media-type="audio/mpeg"/>
+
+    <item id="p015" href="Text/p015.xhtml" media-type="application/xhtml+xml" media-overlay="s015"/>
+    <item id="s015" href="Text/p015.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m015" href="Audio/15.mp3" media-type="audio/mpeg"/>
+
+    <item id="p016" href="Text/p016.xhtml" media-type="application/xhtml+xml" media-overlay="s016"/>
+    <item id="s016" href="Text/p016.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m016" href="Audio/16.mp3" media-type="audio/mpeg"/>
+
+    <item id="p017" href="Text/p017.xhtml" media-type="application/xhtml+xml" media-overlay="s017"/>
+    <item id="s017" href="Text/p017.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m017" href="Audio/17.mp3" media-type="audio/mpeg"/>
+
+    <item id="p018" href="Text/p018.xhtml" media-type="application/xhtml+xml" media-overlay="s018"/>
+    <item id="s018" href="Text/p018.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m018" href="Audio/18.mp3" media-type="audio/mpeg"/>
+
+    <item id="p019" href="Text/p019.xhtml" media-type="application/xhtml+xml" media-overlay="s019"/>
+    <item id="s019" href="Text/p019.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m019" href="Audio/19.mp3" media-type="audio/mpeg"/>
+
+    <item id="p020" href="Text/p020.xhtml" media-type="application/xhtml+xml" media-overlay="s020"/>
+    <item id="s020" href="Text/p020.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m020" href="Audio/20.mp3" media-type="audio/mpeg"/>
+
+    <item id="p021" href="Text/p021.xhtml" media-type="application/xhtml+xml" media-overlay="s021"/>
+    <item id="s021" href="Text/p021.xhtml.smil" media-type="application/smil+xml"/>
+    <item id="m021" href="Audio/21.mp3" media-type="audio/mpeg"/>
+
+    <item id="p022" href="Text/p022.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="toc.ncx">
+    <itemref idref="cover" linear="yes"/>
+    <itemref idref="colophon" linear="yes"/>
+    <itemref idref="p001" linear="yes"/>
+    <itemref idref="p002" linear="yes"/>
+    <itemref idref="p003" linear="yes"/>
+    <itemref idref="p004" linear="yes"/>
+    <itemref idref="p005" linear="yes"/>
+    <itemref idref="p006" linear="yes"/>
+    <itemref idref="p007" linear="yes"/>
+    <itemref idref="p008" linear="yes"/>
+    <itemref idref="p009" linear="yes"/>
+    <itemref idref="p010" linear="yes"/>
+    <itemref idref="p011" linear="yes"/>
+    <itemref idref="p012" linear="yes"/>
+    <itemref idref="p013" linear="yes"/>
+    <itemref idref="p014" linear="yes"/>
+    <itemref idref="p015" linear="yes"/>
+    <itemref idref="p016" linear="yes"/>
+    <itemref idref="p017" linear="yes"/>
+    <itemref idref="p018" linear="yes"/>
+    <itemref idref="p019" linear="yes"/>
+    <itemref idref="p020" linear="yes"/>
+    <itemref idref="p021" linear="yes"/>
+    <itemref idref="p022" linear="yes"/>
+    <itemref idref="playlist" linear="yes"/>
+</spine>
+<guide>
+    <reference type="cover" title="Cover" href="Text/cover.xhtml" />
+    <reference type="toc" title="Contents" href="Text/toc.xhtml" />
+    <reference type="text" title="A Mão e a Luva" href="Text/p001.xhtml" />
+</guide>
+</package>
+
